@@ -16,7 +16,7 @@ Também estou estudando para futuramente cursar *Sistemas de Informação* ou al
 
 ### 📫 Como me encontrar
 
-Istaqgram : https://www.instagram.com/_neoxz/
+Istagram : https://www.instagram.com/_neoxz/
 
 🔄 Sempre buscando evoluir, aprender e criar coisas novas.## Hi there 👋
 
