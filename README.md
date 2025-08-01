@@ -1,4 +1,24 @@
-## Hi there 👋
+Olá mundo👋
+ Me chamo *Paulo Ricardo*, sou estudante do Instituto Federal do Triângulo Mineiro – *IFTM*.  
+
+Tenho interesse em oportunidades de trabalho, *freelas*, estágios ou qualquer chance de crescer na área da tecnologia.  
+Também estou estudando para futuramente cursar *Sistemas de Informação* ou algo na área de TI.
+
+
+
+### ✨ Tecnologias que estou aprendendo
+
+- 🌐HTML
+- 🎨 CSS
+- 🐍 Python
+- Git & GitHub
+
+
+### 📫 Como me encontrar
+
+Istaqgram : https://www.instagram.com/_neoxz/
+
+🔄 Sempre buscando evoluir, aprender e criar coisas novas.## Hi there 👋
 
 <!--
 **Pauloliveira1/Pauloliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
