@@ -1,9 +1,8 @@
 Olá mundo👋
- Me chamo *Paulo Ricardo*, sou estudante do Instituto Federal do Triângulo Mineiro – *IFTM*.  
+ Me chamo *Paulo Ricardo*, sou estudante da Universidade Federal de Uberlandia *UFU* 
 
 Tenho interesse em oportunidades de trabalho, *freelas*, estágios ou qualquer chance de crescer na área da tecnologia.  
-Também estou estudando para futuramente cursar *Sistemas de Informação* ou algo na área de TI.
-
+Atualmente Cursando G.I e ADS
 
 
 ### ✨ Tecnologias que estou aprendendo
