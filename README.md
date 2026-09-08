@@ -44,12 +44,5 @@
 <div align="center">
   <p>🔄 Sempre buscando evoluir, aprender e criar coisas novas.</p>
 </div>
----
 
-### 📫 Como me encontrar
 
-* **Instagram:** [._neoxz](https://www.instagram.com/_neoxz/)
-
-<div align="center">
-  <p>🔄 Sempre buscando evoluir, aprender e criar coisas novas.</p>
-</div>
