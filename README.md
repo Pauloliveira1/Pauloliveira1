@@ -9,10 +9,23 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Troque 'SEU-USUARIO' pelo seu login real do GitHub nos dois links abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pauloliveira1&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloliveira1&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🐍 A Cobrinha Come-Grids
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pauloliveira1/Pauloliveira1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 👀 Visitas ao perfil
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pauloliveira1&color=blue&style=flat-square" alt="Contador de visitas" />
 </div>
 
 ---
@@ -29,14 +42,6 @@
 
 ---
 
-### 🐍 A Cobrinha Come-Grids
-<div align="center">
-  <!-- Troque 'SEU-USUARIO' nos dois lugares do link abaixo pelo seu login real -->
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 * **Instagram:** [._neoxz](https://www.instagram.com/_neoxz/)
@@ -44,5 +49,3 @@
 <div align="center">
   <p>🔄 Sempre buscando evoluir, aprender e criar coisas novas.</p>
 </div>
-
-
