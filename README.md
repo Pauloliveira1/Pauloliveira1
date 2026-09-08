@@ -9,9 +9,9 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pauloliveira1&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pauloliveira1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloliveira1&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloliveira1&layout=compact&theme=radical&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -19,6 +19,7 @@
 ### 🐍 A Cobrinha Come-Grids
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pauloliveira1/Pauloliveira1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p><sub>Animação gerada automaticamente pelo workflow <code>generate-snake</code> no branch <code>output</code>.</sub></p>
 </div>
 
 ---
